@@ -1,11 +1,14 @@
 h1 {
-font-family: fantasy;
+justify-content: center;  
+font-family: 'Anek Malayalam', sans-serif;
+align-content: center;
+color:#FFE62D;
 }
 
 
 
 ul.nav {
-    font-family: fantasy;
+    font-family: 'Anek Malayalam', sans-serif;
     padding-left: 0px;
     background-color: #FFE62D;
     text-align: center;
