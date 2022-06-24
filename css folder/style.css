@@ -1,8 +1,14 @@
+h1 {
+font-family: fantasy;
+}
+
+
+
 ul.nav {
     font-family: fantasy;
     padding-left: 0px;
     background-color: #FFE62D;
-    text-align: right;
+    text-align: center;
   }
   ul.nav > li {
     display: inline-block;
