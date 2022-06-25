@@ -1,7 +1,7 @@
 h1 {
-  font-family: 'Anek Malayalam', sans-serif;
+  font-family: 'Caveat', cursive;
 align-content: center;
-color: #e92929;
+color: #cc0000;
 }
 
 
@@ -27,3 +27,12 @@ ul.nav {
    display: flex;
    justify-content: center;
  }
+
+div p
+
+footer {
+  font-family: 'Anek Malayalam', sans-serif;
+  font-size: 22px;
+  color: black;
+  text-align: center;
+}
